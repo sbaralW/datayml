@@ -5,7 +5,7 @@ home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg"
 home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg"
 home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg"
 phoneNumber: 925-452-7483
-presentedBy: Presented by
+presentedBy: 'Presented by:'
 name: Praveen Kumar
 rightImgLine1: GREAT
 rightImgLine2: FREMONT
@@ -27,5 +27,5 @@ homeImg2Line2: BEDROOM
 homeImg3Line1: UPGRADED
 homeImg3Line2: KITCHEN
 qrcode: "https://github.com/sbaralW/flyer/raw/main/qrcode.png"
-location: 37619 Fremont Blvd
+location: '37619 Fremont Blvd, #205, Fremont, CA 94536'
 link: Visit.37619FremontBlvd.com
