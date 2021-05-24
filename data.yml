@@ -4,7 +4,7 @@ mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg" #var
 home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg" #var
 home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg" #var
 home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg" #var
-phoneNumber: 925-452-7483 #const
+#phoneNumber: 925-452-7483 #const
 #presentedBy: 'Presented by:' #const
 #name: Praveen Kumar #const
 #details: 
