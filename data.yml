@@ -1,5 +1,5 @@
 titleFront: flyer front
-foregroundImg: "https://github.com/sbaralW/flyer/raw/main/foregroundNw.png" #const
+#foregroundImg: "https://github.com/sbaralW/flyer/raw/main/foregroundNw.png" #const
 mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg" #var
 home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg" #var
 home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg" #var
