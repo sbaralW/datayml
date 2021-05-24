@@ -1,74 +1,75 @@
 titleFront: flyer front
-foregroundImg: "https://github.com/sbaralW/flyer/raw/main/foregroundNw.png"
-mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg"
-home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg"
-home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg"
-home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg"
-phoneNumber: 925-452-7483
-presentedBy: 'Presented by:'
-name: Praveen Kumar
-details: 
-        detailsLine1: Broker Owner/Realtor   
-        detailsLine2: 'CA BRE Lic # 01928307'
-rightImgLine1: GREAT
-rightImgLine2: FREMONT
-rightImgLine3: SCHOOLS
-rightImgLine4: $869,000
-leftImgLine1: AWESOME
-leftImgLine2: FREMONT
-leftImgLine3: HOME
-leftImgLine4: THIS WON'T LAST LONG...
-leftImgLine5: SCHEDULE YOUR VISIT TODAY.
-leftList1: North-East facing front door.
-leftList2: Commuter's paradise
-leftList3: Walk to ACE station.
-leftList4: Short ride to Fremont BART.
-homeImg1Line1: COZY
-homeImg1Line2: LIVING ROOM
-homeImg2Line1: MODERN
-homeImg2Line2: BEDROOM
-homeImg3Line1: UPGRADED
-homeImg3Line2: KITCHEN
-qrcode: "https://github.com/sbaralW/flyer/raw/main/qrcode.png"
-locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536'
-linkFront: Visit.37619FremontBlvd.com
+foregroundImg: "https://github.com/sbaralW/flyer/raw/main/foregroundNw.png" #const
+mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg" #var
+home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg" #var
+home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg" #var
+home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg" #var
+phoneNumber: 925-452-7483 #const
+#presentedBy: 'Presented by:' #const
+#name: Praveen Kumar #const
+#details: 
+        #detailsLine1: Broker Owner/Realtor   #const
+        #detailsLine2: 'CA BRE Lic # 01928307' #const
+rightImgLine1: GREAT #var
+rightImgLine2: FREMONT #var
+rightImgLine3: SCHOOLS #var
+rightImgLine4: $869,000 #var
+leftImgLine1: AWESOME #var
+leftImgLine2: FREMONT #var
+leftImgLine3: HOME #var
+leftImgLine4: THIS WON'T LAST LONG... #var
+leftImgLine5: SCHEDULE YOUR VISIT TODAY. #var
+leftList1: North-East facing front door. #var
+leftList2: Commuter's paradise #var
+leftList3: Walk to ACE station. #var
+leftList4: Short ride to Fremont BART. #var
+homeImg1Line1: COZY #var
+homeImg1Line2: LIVING ROOM #var
+homeImg2Line1: MODERN #var
+homeImg2Line2: BEDROOM #var
+homeImg3Line1: UPGRADED #var
+homeImg3Line2: KITCHEN #var
+qrcode: "https://github.com/sbaralW/flyer/raw/main/qrcode.png" #var
+locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536' #var
+linkFront: Visit.37619FremontBlvd.com #var
+#back html
 titleBack: flyer Back
-backgroundImg: "https://github.com/sbaralW/flyer/raw/main/Flyer-Back-37619Fremont205-6.png"
-qrcodeImg1: "https://github.com/sbaralW/flyer/raw/main/Schedule.37619FremontBlvd.com.png"
-qrcodeImg2: "https://github.com/sbaralW/flyer/raw/main/925-452-7483.png"
-qrcodeImg3: "https://github.com/sbaralW/flyer/raw/main/flyer.37619fremontblvd.com.png"
+#backgroundImg: "https://github.com/sbaralW/flyer/raw/main/Flyer-Back-37619Fremont205-6.png" #const
+qrcodeImg1: "https://github.com/sbaralW/flyer/raw/main/Schedule.37619FremontBlvd.com.png" #var
+qrcodeImg2: "https://github.com/sbaralW/flyer/raw/main/925-452-7483.png"  #var
+qrcodeImg3: "https://github.com/sbaralW/flyer/raw/main/flyer.37619fremontblvd.com.png"  #var
 banner:
-     bannerLine1: 'Home Buyers: If You Are Not Happy With'
-     bannerLine2: Your Home Purchase
-     bannerLine3: We'll Buy It Back 
-     bannerHighlight: GUARANTEED!
-line1Name: Praveen Kumar
-info:
-      infoLine1: Broker Owner/Realtor  
-      infoLine2: 'CA BRE Lic # 01928307'
-leftListHeading: BUYER PROTECTION PLAN 
-leftListLine1: 'Buy with us, If YOU are NOT satisfied:'
-leftListLine2: In 12 months, We'll buy it back!
-leftListLine3: We give this guarantee in writing.
-leftListLine4: Ask me how to save $5,000!
-leftListLine5: FREE Home Warranty for 1 year.
-leftListLine6: FREE Home Warranty for 1 year.
-rightListHeading: WHY CHOOSE US?
-para1Line1: We sell homes for MORE money.
-para1Line2: 105% (us) vs 98.06% (average)
-para2Line1: We sell homes in LESS time.
-para2Line2: 15% faster than an average agent.
-para3Line1: We sell MORE homes.
-para3Line2: 3x more than the average agent and more than 90% of all agents
-para4Line1: We are MORE successful.
-para4Line2: 100% of our listings sell vs 88% of the average listings
-para5Line1: We have Buyers.
-para5Line2: Over 357 are looking for homes in Fremont!
-qrcode1Line1: SCHEDULE
-qrcode1Line2: PRIVATE TOUR
-qrcode2Line1: CALL
-qrcode2Line2: 925-452-7483
-qrcode3Line1: Property
-qrcode3Line2: INFO
-locationBack: '37619 Fremont Blvd, #205, Fremont, CA 94536'
-linkBack: Visit.37619FremontBlvd.com
+     bannerLine1: 'Home Buyers: If You Are Not Happy With' #var
+     bannerLine2: Your Home Purchase #var
+     bannerLine3: We'll Buy It Back  #var
+     bannerHighlight: GUARANTEED! #var
+#line1Name: Praveen Kumar #const
+#info:
+      #infoLine1: Broker Owner/Realtor  #const
+      #infoLine2: 'CA BRE Lic # 01928307' #const
+leftListHeading: BUYER PROTECTION PLAN #var
+leftListLine1: 'Buy with us, If YOU are NOT satisfied:'  #var
+leftListLine2: In 12 months, We'll buy it back!  #var
+leftListLine3: We give this guarantee in writing.  #var
+leftListLine4: Ask me how to save $5,000!  #var
+leftListLine5: FREE Home Warranty for 1 year.  #var
+leftListLine6: FREE Home Warranty for 1 year.  #var
+rightListHeading: WHY CHOOSE US? #var
+para1Line1: We sell homes for MORE money. #var
+para1Line2: 105% (us) vs 98.06% (average)  #var
+para2Line1: We sell homes in LESS time.  #var
+para2Line2: 15% faster than an average agent.  #var
+para3Line1: We sell MORE homes.  #var
+para3Line2: 3x more than the average agent and more than 90% of all agents  #var
+para4Line1: We are MORE successful.  #var
+para4Line2: 100% of our listings sell vs 88% of the average listings  #var
+para5Line1: We have Buyers.  #var
+para5Line2: Over 357 are looking for homes in Fremont!  #var
+qrcode1Line1: SCHEDULE  #var
+qrcode1Line2: PRIVATE TOUR #var
+qrcode2Line1: CALL #var
+qrcode2Line2: 925-452-7483 #var
+qrcode3Line1: Property #var
+qrcode3Line2: INFO #var
+locationBack: '37619 Fremont Blvd, #205, Fremont, CA 94536' #var
+linkBack: Visit.37619FremontBlvd.com #var
