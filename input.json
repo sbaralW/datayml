@@ -1,0 +1,5 @@
+{
+"FRONT_TEMPLATE_PATH":"file:///home/vagrant/Documents/project1/templateFront.html",
+"BACK_TEMPLATE_PATH":"file:///home/vagrant/Documents/project1/templateBack.html",
+"INPUT_YAML_FILE_PATH":"https://raw.githubusercontent.com/sbaralW/datayml/main/data.yml"
+}
