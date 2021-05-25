@@ -1,15 +1,8 @@
 titleFront: flyer front
-#foregroundImg: "https://github.com/sbaralW/flyer/raw/main/foregroundNw.png" #const
 mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg" #var
 home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg" #var
 home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg" #var
 home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg" #var
-#phoneNumber: 925-452-7483 #const
-#presentedBy: 'Presented by:' #const
-#name: Praveen Kumar #const
-#details: 
-        #detailsLine1: Broker Owner/Realtor   #const
-        #detailsLine2: 'CA BRE Lic # 01928307' #const
 rightImgLine1: GREAT #var
 rightImgLine2: FREMONT #var
 rightImgLine3: SCHOOLS #var
@@ -34,7 +27,6 @@ locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536' #var
 linkFront: Visit.37619FremontBlvd.com #var
 #back html
 titleBack: flyer Back
-#backgroundImg: "https://github.com/sbaralW/flyer/raw/main/Flyer-Back-37619Fremont205-6.png" #const
 qrcodeImg1: "https://github.com/sbaralW/flyer/raw/main/Schedule.37619FremontBlvd.com.png" #var
 qrcodeImg2: "https://github.com/sbaralW/flyer/raw/main/925-452-7483.png"  #var
 qrcodeImg3: "https://github.com/sbaralW/flyer/raw/main/flyer.37619fremontblvd.com.png"  #var
@@ -43,10 +35,6 @@ banner:
      bannerLine2: Your Home Purchase #var
      bannerLine3: We'll Buy It Back  #var
      bannerHighlight: GUARANTEED! #var
-#line1Name: Praveen Kumar #const
-#info:
-      #infoLine1: Broker Owner/Realtor  #const
-      #infoLine2: 'CA BRE Lic # 01928307' #const
 leftListHeading: BUYER PROTECTION PLAN #var
 leftListLine1: 'Buy with us, If YOU are NOT satisfied:'  #var
 leftListLine2: In 12 months, We'll buy it back!  #var
