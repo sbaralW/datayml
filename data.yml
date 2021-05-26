@@ -28,9 +28,9 @@ locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536' #var
 linkFront: Visit.37619FremontBlvd.com #var
 #back html
 titleBack: flyer Back
-qrcodeImg1: "https://github.com/sbaralW/flyer/raw/main/Schedule.37619FremontBlvd.com.png" #var
-qrcodeImg2: "https://github.com/sbaralW/flyer/raw/main/925-452-7483.png"  #var
-qrcodeImg3: "https://github.com/sbaralW/flyer/raw/main/flyer.37619fremontblvd.com.png"  #var
+qrcode1Data: "http://Schedule.37619FremontBlvd.com"
+qrcode2Data: 925-452-7483
+qrcode3Data: "http://visit.37619FremontBlvd.com"
 banner:
      bannerLine1: 'Home Buyers: If You Are Not Happy With' #var
      bannerLine2: Your Home Purchase #var
