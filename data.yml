@@ -22,7 +22,8 @@ homeImg2Line1: MODERN #var
 homeImg2Line2: BEDROOM #var
 homeImg3Line1: UPGRADED #var
 homeImg3Line2: KITCHEN #var
-qrcode: "https://github.com/sbaralW/flyer/raw/main/qrcode.png" #var
+qrcodeData: "http://visit.37619FremontBlvd.com"
+#qrcode: "https://github.com/sbaralW/flyer/raw/main/qrcode.png" #var
 locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536' #var
 linkFront: Visit.37619FremontBlvd.com #var
 #back html
