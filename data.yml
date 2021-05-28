@@ -1,8 +1,8 @@
 titleFront: flyer front
-mainImg: "https://github.com/sbaralW/flyer/raw/main/Main-Image.jpg" #var
-home1Img: "https://github.com/sbaralW/flyer/raw/main/Home-1.jpg" #var
-home2Img: "https://github.com/sbaralW/flyer/raw/main/Home-2.jpg" #var
-home3Img: "https://github.com/sbaralW/flyer/raw/main/Home-3.jpg" #var
+mainImg: "Main-Image.jpg" #var
+home1Img: "Home-1.jpg" #var
+home2Img: "Home-2.jpg" #var
+home3Img: "Home-3.jpg" #var
 rightImgLine1: GREAT #var
 rightImgLine2: FREMONT #var
 rightImgLine3: SCHOOLS #var
